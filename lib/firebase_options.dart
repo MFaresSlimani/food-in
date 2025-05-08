@@ -53,11 +53,6 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyCCApNOXpZZMeAvwf3IxXLqipt1MpNOO3w',
-    appId: '1:926315269448:android:758ac062e34eb2b720777d',
-    messagingSenderId: '926315269448',
-    projectId: 'recipes-app-fares',
-    storageBucket: 'recipes-app-fares.firebasestorage.app',
   );
 
 }
