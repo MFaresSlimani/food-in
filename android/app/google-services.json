@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "926315269448",
+    "project_id": "recipes-app-fares",
+    "storage_bucket": "recipes-app-fares.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:926315269448:android:758ac062e34eb2b720777d",
+        "android_client_info": {
+          "package_name": "com.example.foodin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCApNOXpZZMeAvwf3IxXLqipt1MpNOO3w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
